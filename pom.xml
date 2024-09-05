@@ -28,6 +28,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.host.url>http://sonarqube:9000</sonar.host.url> 
+     <sonar.login>sqa_cd0e53e593b151243806aeaf0019ba7f17dee105</sonar.login>
   </properties>
   <build>
     <pluginManagement>
