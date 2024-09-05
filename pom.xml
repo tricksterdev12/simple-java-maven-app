@@ -88,6 +88,11 @@
           </execution>
         </executions>
       </plugin>
+      <!-- SonarQube Plugin -->
+        <groupId>org.sonarsource.scanner.maven</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+        <version>6.1.0.4477</version> <!-- Utilisez la version appropriée -->
+      </plugin>
     </plugins>
   </build>
 </project>
